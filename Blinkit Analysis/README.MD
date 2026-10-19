@@ -1,163 +1,201 @@
 <div align="center">
 
-# 🛒 Blinkit Sales Analysis
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:166534,50:22C55E,100:FACC15&height=220&section=header&text=Blinkit%20Sales%20Analysis&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Excel%20Dashboard%20%7C%20Data%20Analytics%20Project&descAlignY=55&descSize=17" width="100%"/>
 
-### 📊 Excel Dashboard | Data Analytics Project
+### 🛒 Turning Sales Data into Business Insights
 
-**Turning Sales Data into Business Insights**
+<p>
+  <img src="https://img.shields.io/badge/Project-Data%20Analytics-166534?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Business%20Insights-FACC15?style=for-the-badge"/>
+</p>
 
-Built using Microsoft Excel to analyze sales performance, outlet characteristics, product categories, and customer ratings.
+**Analyzing sales performance, product categories, outlet characteristics, and customer ratings through an Excel dashboard.**
 
 </div>
 
 ---
 
-## 📌 Project Overview
+## 📌 About the Project
 
-The **Blinkit Sales Analysis** project focuses on analyzing sales performance, customer satisfaction, and inventory distribution to identify meaningful business insights and opportunities for optimization.
+The **Blinkit Sales Analysis** project explores sales performance, customer satisfaction, and outlet characteristics to identify useful business insights.
 
-The dashboard presents key performance indicators (KPIs), interactive visualizations, and outlet-level comparisons to support data-driven decision-making.
+The project uses Microsoft Excel to organize sales information, calculate key performance indicators (KPIs), and present data through visualizations.
 
 ### 🎯 Business Objectives
 
-- Analyze overall sales performance.
-- Compare sales across different item types.
-- Understand the impact of fat content on sales.
-- Evaluate sales by outlet size, location, and establishment year.
-- Analyze customer ratings.
-- Build an interactive dashboard for business reporting.
+- 💰 Understand overall sales performance.
+- 🛍️ Compare sales across item categories.
+- 🥑 Analyze sales by fat content.
+- 🏪 Compare outlet sizes and outlet types.
+- 📍 Explore sales across outlet locations.
+- ⭐ Examine customer ratings.
+- 📊 Present important metrics in an interactive dashboard.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tech Stack
 
-| Tool | Purpose |
+<div align="center">
+
+| Technology | Application |
+|:---:|---|
+| <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/> | Data analysis and dashboard creation |
+| 📊 Pivot Tables | Summarizing and comparing sales data |
+| 📈 Excel Charts | Visualizing patterns and comparisons |
+| 🧮 Excel Formulas | Calculating KPIs |
+| 🎛️ Slicers | Interactive data exploration |
+
+</div>
+
+---
+
+## 📊 Key Performance Indicators
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 💰
+**Total Sales**
+
+Overall revenue generated
+
+</td>
+<td align="center" width="25%">
+
+### 📈
+**Average Sales**
+
+Average sales metric
+
+</td>
+<td align="center" width="25%">
+
+### 📦
+**Number of Items**
+
+Total item count
+
+</td>
+<td align="center" width="25%">
+
+### ⭐
+**Average Rating**
+
+Average customer rating
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Dashboard Visualizations
+
+| Visualization | Business Purpose |
 |---|---|
-| Microsoft Excel | Data analysis and dashboard development |
-| Pivot Tables | Data summarization and aggregation |
-| Excel Charts | Visualizing sales trends and comparisons |
-| Excel Formulas | Calculating key performance indicators |
-| Slicers / Filters | Interactive dashboard analysis |
+| 🍩 Sales by Fat Content | Compare sales across fat-content categories |
+| 📊 Sales by Item Type | Identify high-performing item categories |
+| 🏪 Fat Content by Outlet | Compare outlet sales by fat content |
+| 📈 Sales by Establishment Year | Examine sales across establishment years |
+| 🍩 Sales by Outlet Size | Compare sales across outlet sizes |
+| 📍 Sales by Outlet Location | Explore geographic sales distribution |
+| 📋 Metrics by Outlet Type | Compare sales, item count, and ratings |
 
 ---
 
-## 📊 Key Performance Indicators (KPIs)
+## 🎛️ Interactive Dashboard
 
-The dashboard is designed to track four important business metrics.
+The dashboard requirements include filters for:
 
-| KPI | Description |
-|---|---|
-| 💰 Total Sales | Overall revenue generated from items sold |
-| 📈 Average Sales | Average revenue per sale or item, according to the dataset definition |
-| 📦 Number of Items | Total count of items sold |
-| ⭐ Average Rating | Average customer rating for items sold |
+- Outlet Size
+- Outlet Location Type
+- Item Type
 
----
-
-## 📉 Dashboard Visualizations
-
-The project requirements include seven visualizations.
-
-| No. | Visualization | Business Purpose |
-|---|---|---|
-| 1 | Sales by Fat Content | Compare sales across fat-content categories |
-| 2 | Sales by Item Type | Identify high-performing item categories |
-| 3 | Fat Content by Outlet | Compare sales by fat content across outlets |
-| 4 | Sales by Outlet Establishment | Examine sales across outlet establishment years |
-| 5 | Sales by Outlet Size | Understand sales distribution by outlet size |
-| 6 | Sales by Outlet Location | Examine the geographic distribution of sales |
-| 7 | Metrics by Outlet Type | Compare sales, average sales, item count, and ratings |
+These filters are intended to help users explore different segments of sales performance.
 
 ---
 
-## 🎛️ Interactive Dashboard Features
+## 🖼️ Dashboard Preview
 
-The dashboard is designed with filters for:
+<div align="center">
 
-- **Outlet Size**
-- **Outlet Location Type**
-- **Item Type**
+<!-- Ensure Dashboard_Screenshot.png is uploaded in this same folder. -->
 
-These filters allow users to explore different segments of the business and compare performance across categories.
+<img src="Dashboard_Screenshot.png" alt="Blinkit Sales Analysis Dashboard" width="100%"/>
+
+*Blinkit Sales Analysis dashboard built using Microsoft Excel.*
+
+</div>
+
+---
+
+## 📂 Project Structure
+
+```text
+Blinkit Analysis/
+│
+├── 📊 Blinkit_Sales_Analysis.xlsx
+├── 📄 Blinkit_Business_problem.pdf
+├── 🖼️ Dashboard_Screenshot.png
+└── 📝 README.md
+```
 
 ---
 
 ## 💡 Business Questions
 
-This analysis is designed to answer questions such as:
+This project is designed to investigate:
 
-1. Which item types generate the highest sales?
+1. Which item categories generate the most sales?
 2. How do sales differ by fat content?
-3. How does outlet size relate to sales performance?
-4. How do sales vary across outlet locations?
-5. How does outlet establishment year relate to sales?
-6. How do outlet types compare in sales and customer ratings?
-7. How do sales metrics change when dashboard filters are applied?
+3. How does outlet size relate to sales?
+4. How do sales vary by outlet location?
+5. How do sales compare across establishment years?
+6. How do outlet types compare on key metrics?
+7. How do the results change when filters are applied?
 
 ---
 
-## 📷 Dashboard Preview
+## ✅ Data Validation
 
-<!-- Add your dashboard screenshot to this folder and update the filename below. -->
-
-![Blinkit Sales Dashboard](Dashboard_Screenshot.png)
-
----
-
-## 📁 Project Structure
-
-```text
-Blinkit Analysis/
-│
-├── Blinkit_Sales_Analysis.xlsx
-├── Blinkit_Business_problem.pdf
-├── Dashboard_Screenshot.png
-└── README.md
-```
-
----
-
-## 🔍 Validation & Quality Checks
-
-The project requirements include the following validation steps:
-
-- Verify KPI formulas against the cleaned dataset.
+- Verify KPI calculations against the dataset.
 - Confirm that sales use the intended aggregation method.
-- Check chart titles, axis labels, number formats, and readability.
-- Test slicers and confirm that connected PivotTables and charts update.
-- Record business insights only after verifying the actual results.
+- Check chart titles, labels, and number formats.
+- Test slicers and connected PivotTables.
+- Report findings only after checking actual results.
 
 ---
 
-## 📈 Expected Business Value
+## 🚀 Skills Demonstrated
 
-The dashboard is intended to help users:
-
-- Understand sales performance across product categories.
-- Compare outlet performance using consistent metrics.
-- Explore sales patterns interactively.
-- Identify areas that may require further business investigation.
-- Present sales information in a clear, visual format.
-
-*Note: Actual findings should be added after reviewing the completed dashboard and verified results.*
+<p>
+<img src="https://img.shields.io/badge/Data%20Analysis-166534?style=flat-square"/>
+<img src="https://img.shields.io/badge/KPI%20Reporting-217346?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-FACC15?style=flat-square"/>
+<img src="https://img.shields.io/badge/Business%20Analysis-374151?style=flat-square"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square"/>
+</p>
 
 ---
 
-## 👨‍💻 About the Project
+## 👨‍💻 About This Project
+
+This project demonstrates my practical application of Microsoft Excel to business-focused data analysis and dashboard development.
 
 **Project:** Blinkit Sales Analysis  
 **Category:** Data Analytics  
-**Primary Tool:** Microsoft Excel  
-**Focus Areas:** Data Analysis, KPI Reporting, Data Visualization, Business Insights
-
-This project demonstrates my practical application of Excel for business-focused data analysis and dashboard development.
+**Primary Tool:** Microsoft Excel
 
 ---
 
 <div align="center">
 
-### ⭐ Thank you for visiting my project!
+### ⭐ Thank You for Visiting!
 
-**Explore the files, review the dashboard, and share your feedback.**
+*Explore the project files and dashboard to learn more.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:166534,50:22C55E,100:FACC15&height=120&section=footer" width="100%"/>
 
 </div>
